@@ -1,1 +1,2 @@
 # Stock-Prediction-Using-Decision-Tree-and-LTSM-Models
+•	Coded partially in Jupyter Notebook and Google Colab. Project predicts market close for multiple index funds and equities based on historic data. The project makes use of the Yahoo Finance API to dynamically update stock data and uses elementary decision trees and LTSM neural networks to predict close. Project findings are interactively visualized on local host using Anvil uplink.
